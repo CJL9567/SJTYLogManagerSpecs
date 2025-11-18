@@ -1,0 +1,2 @@
+# SJTYLogManagerSpecs
+SJTYLogManagerSpecs
